@@ -27,3 +27,10 @@ The project uses four datasets:
 ## Files
 - `final_project_tripleten.ipynb` – full analysis and modeling
 - CSV files – raw datasets used in the analysis
+
+## How to run
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/ViktorIT2025/tripleten-final-project.git
+   cd tripleten-final-project
